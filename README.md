@@ -75,8 +75,8 @@ pip install -r requirements.txt
 To run the DAI-Assist chatbot, navigate to the appropriate directory and execute the main script. 
 
 ## Contribution
-- **Manager -  Nithin Bellam Sukumar** : `nithin.bellamsukumar@nike.com`
-- **Shoaib Alam** :  `shoaib.alam@nike.com`
-- **Malay Rout**:  `malay.rout@nike.com`
+
+- **Shoaib Alam** :  `alamshoaib134@gmail.com`
+
 
 
